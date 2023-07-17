@@ -1,10 +1,13 @@
-# Medium Editor TipTap
+# Medium Editor Plugin Sample
 
 This project is currently under construction. Please refer to the GitHub repository for the latest updates and code.
 
 ## Introduction
 
-https://github.com/vincent0426/medium-editor-tiptap/assets/68840528/850a4163-ceea-4d30-96ef-bf15358aa366
+
+
+https://github.com/vincent0426/medium-editor-plugin-sample/assets/68840528/facc4ef6-7cf8-4b3b-989c-c1e244263464
+
 
 
 ## Getting Started
@@ -16,7 +19,7 @@ To get started with the project, follow these steps:
 ### Installation
 
 ```bash
-git clone https://github.com/vincent0426/medium-editor-tiptap.git
+git clone https://github.com/vincent0426/medium-editor-plugin-sample.git
 
 yarn install
 
